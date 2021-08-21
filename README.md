@@ -1,8 +1,8 @@
 # TheSparksFoundation - Data Science and Business Analytics
 Data Science and Business Analytics Internship - The Sparks Foundation 
 
-Task 1:
-Task 2:
+* **Task 1**: https://github.com/Bhavik-Jikadara/TheSparksFoundation-Data_Science_and_Business_Analytics/tree/main/Task1
+* **Task 2**: https://github.com/Bhavik-Jikadara/TheSparksFoundation-Data_Science_and_Business_Analytics/tree/main/Task2
 
 Follow me on :----
 
