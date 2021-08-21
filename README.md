@@ -1,6 +1,9 @@
 # TheSparksFoundation - Data Science and Business Analytics
 Data Science and Business Analytics Internship - The Sparks Foundation 
 
+Task 1:
+Task 2:
+
 Follow me on :----
 
 * Facebook Link:  https://www.facebook.com/Bhavikjikadara07
